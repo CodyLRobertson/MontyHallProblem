@@ -1,4 +1,4 @@
-#Here we go boys
+#Monty Hall Problem
 #Game Rules are as follows:
 #The host must always open a door that was not picked by the contestant
 #The host must always open a door to reveal a goat and never the car
@@ -40,7 +40,7 @@ def Main():
 		print("Dev: Player Chose 'c', Host chose:" + hostChoice	)
 
 
-main()
+Main()
 
 
 
